@@ -1,4 +1,4 @@
-# RossJamesUrquhart.github.io
+# Homepage
 
 Welcome! This repository serves as the basis for my GitHub website, made using GitHub pages!
 

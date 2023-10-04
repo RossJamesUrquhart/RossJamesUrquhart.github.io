@@ -41,7 +41,7 @@
     <section id="skills">
         <h2>Skills</h2>
         <ul>
-		<a href="https://www.python.org/" target="_blank"><img src="assets/images/python-logo.png" class="enlarge-onhover" alt="python Logo"></a>
+		<a href="https://www.python.org/" target="_blank"><img src="assets/images/python-logo.jpg" class="enlarge-onhover" alt="python Logo"></a>
 		<a href="https://pytorch.org/" target="_blank"><img src="assets/images/PyTorch-logo.png" class="enlarge-onhover" alt="PyTorch Logo"></a>
 		<a href="https://scikit-learn.org/stable/" target="_blank"><img src="assets/images/sklearn-logo.png" class="enlarge-onhover" alt="SciKit-Learn Logo"></a>
 		<a href="https://orcaforum.kofo.mpg.de/app.php/portal" target="_blank"><img src="assets/images/ORCA_logo.png" class="enlarge-onhover" alt="ORCA Logo"></a>

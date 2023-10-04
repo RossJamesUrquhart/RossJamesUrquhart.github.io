@@ -76,13 +76,13 @@ header {
 .enlarge-onhover {
     width: auto;
     height: 60px;
-	margin-right: 25px;
+	margin-right: 10px;
 }
 
 .enlarge-onhover:hover {
     width: auto;
     height: 70px;
-	margin-right: 25px;
+	margin-right: 10px;
 }
 
 nav ul {

@@ -1,0 +1,59 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 1rem;
+}
+
+.enlarge-onhover {
+    width: auto;
+    height: 60px;
+}
+
+.enlarge-onhover:hover {
+    width: auto;
+    height: 70px;
+}
+
+nav ul {
+    background-color: #333;
+    list-style-type: none;
+    padding: 0;
+    text-align: center;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 20px;
+}
+
+nav ul li a {
+    color: white;
+    text-decoration: none;
+}
+
+section {
+    padding: 20px;
+    margin: 20px;
+    background-color: #f4f4f4;
+}
+
+section#contact {
+    background-color: #333;
+    color: white;
+}
+
+ul {
+    list-style: none;
+}
+
+a {
+    color: #007bff;
+    text-decoration: none;
+}
